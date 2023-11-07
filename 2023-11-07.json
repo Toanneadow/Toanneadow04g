@@ -1,0 +1,26 @@
+{
+  "name": "Dennis Payne",
+  "age": 27,
+  "address": {
+    "street": "Dugor Lane",
+    "city": "Aziwohaw",
+    "state": "IN",
+    "zip": "63516"
+  },
+  "contact": {
+    "phone": "(379) 547-4116",
+    "servicePhone": "800255721"
+  },
+  "birthday": "1986-08-23T07:12:12.418Z",
+  "ip": "149.24.177.178",
+  "foo": "bar",
+  "profile": {
+    "about": "Umapum turomnib omo asako letap tow gur dic hazdamap vi tagpa kev. Miul giwirgi senif wegnica zowonku lavpid toz wu vi peawodej re onaf ebunisrur fu rapdiswo fuebma kuifme av. Lataw wu nuhi lo toh waz guv gihus tet dorcumuf uhu zanow.",
+    "bio": "Gal etueravaf fewluse bu novowdo bi ci kolpo sone bicesam gi wac buejo muovekoz le ucu vevec. Nol dam no owogizal nug kefek vilwufe acure bu podbi evfo ta mi isafa zi wawahfuj tedfi. Wo vo wokto wa ricen od de kedor beeza zucsugi omoke ra gelso nekijka cewu edku."
+  },
+  "apiKey": "601f9767a85291b6b1a7a09eab810739fb42ff55ebc064b39c4efe522a6f9413",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
