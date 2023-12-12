@@ -1,0 +1,26 @@
+{
+  "name": "Harold Hayes",
+  "age": 42,
+  "address": {
+    "street": "Amomot Court",
+    "city": "Tatene",
+    "state": "IA",
+    "zip": "96365"
+  },
+  "contact": {
+    "phone": "(612) 887-5867",
+    "servicePhone": "800334446"
+  },
+  "birthday": "1991-05-23T13:10:42.832Z",
+  "ip": "222.23.112.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Ocikofid mah ipumawmag obbic hobcegi ke su lifova gunapota waivulik ef udaibi toma juj cedal uh. Du deb rep ja lec beha morogod bos cuwoej do juapesi eci pasreli. Ma okafepuh uc azu mes ocbi pugegibur motcud tedad apunak go re gin am.",
+    "bio": "Fesufve acbac pobe jujne hobca fusrob go li ojnivu nivi fopcuwa mecewoh. Iloli jawac sut raccafug otase ju la adlug uwiipjul wesez kolme ri wusezu ige fesa dijnurwi. Bis cegug zena zucumo kedrum ucesip wufike gotamih kopumi nuvavta reek kapuba tifof. Odizeut wo tefka vop muvvij polsav udo vub taflo ral ofagwo jic viz sipol."
+  },
+  "apiKey": "7dd38bc95b788f04be29f12c265868eaea8ed7eecc87445f361d59aa2eb80521",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
