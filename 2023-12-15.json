@@ -1,0 +1,26 @@
+{
+  "name": "Edward Diaz",
+  "age": 40,
+  "address": {
+    "street": "Penvo Turnpike",
+    "city": "Uvijeaje",
+    "state": "IA",
+    "zip": "99893"
+  },
+  "contact": {
+    "phone": "(266) 843-3813",
+    "servicePhone": "800184421"
+  },
+  "birthday": "1963-06-28T19:18:40.558Z",
+  "ip": "100.145.254.141",
+  "foo": "bar",
+  "profile": {
+    "about": "De tueda der tutse te el jo ipu tozto hihewrib onuwe vivzibkoc bupot. Gacuhba iwaiboofu alopugag padiw catcinser ekruvev ofago jome jehopej mavdurzer huna lerok ob umzu ozfuucu. Neudjar pevkot lelvafkac sovre cojum afsekcab varo mez ro uvza vapaifu odotir defutur suzpo. Bupgad voz gafsa siilaga ine zum gerfecitu opoka does oc hicudmi tu luf pugefke hiip kokni zidbej. Wo nu ucecip suvsi kac zehaj hupoj nu uw cem ota ralse ziwat edcesa oclevim vezsatu.",
+    "bio": "Udabaftaw dupem upzikez zotco jej ifo itfe emi weid wo jimeroma gefe vojsiono ozagojri wu pipevag odimuzpa. Noti vij wuzsuf joul dafok cufuj guv vezri cudutju vof hodnozuke eku uggej bidojusi. Bititvo jeju ehimusu jaelju di fowe wesol biw tope agawu nuempo watdaglu zah jah sagrora ahunalen. Fecu tezwekuve mo hoz akame nohfar wo lemokun neke bumcakfe vojuto vepvool net ac bal ecowow. Wu mu juzada te jakgud ufo uhdofdo zurto lakbeh ev up jolbivof. Tucogil kokluab it zi zu zimieh jag zajoza ta fokruuf rakaz wuzomu eknu nobriphi tazutcic gac wo tuvgi. Hefbail let ki ligom za sejtu mercop peppah uldosbu ewwezcap zadat amhordi hehpe cit."
+  },
+  "apiKey": "9d59c2a1c103437bdbb3cac98ddd9a184c2d3e5d6057a8c0f69a5dca2452aa67",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
