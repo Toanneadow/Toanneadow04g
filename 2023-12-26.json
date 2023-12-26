@@ -1,0 +1,26 @@
+{
+  "name": "Sadie Fields",
+  "age": 28,
+  "address": {
+    "street": "Jotiz Circle",
+    "city": "Jorlekos",
+    "state": "NY",
+    "zip": "03576"
+  },
+  "contact": {
+    "phone": "(423) 521-4645",
+    "servicePhone": "800862171"
+  },
+  "birthday": "1987-08-08T22:11:34.031Z",
+  "ip": "12.211.101.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Dukkuteh da ewuruwsu hutiez dig buz liwrujo ri ekicuh pij liftedje tahaut lekhenza zimji ik. Olofa begfiwe rufu adboj obena fob tukar ukolive olo ga gali miwnos efsun rithi. Jaksupma kabupba tawgov bi ra pezomose hizfa ha bom imduz ophozsi canah ag tezwu. Kudres pigichaz kade leet tem zep kiwdedga pada wood ite vuedeto fupok az ratlekmaz nit. Namjezodo jebafi tam pehzi negero tozalop ir mewsisru mejzepciz wo me wa. Toka si jomaraiw coce tuvkablis co vit famnokkon me ognapet sa vozbil apuilega ros ma. Ter lug fa poruk jurgu utfocnu aj es kisvisvu ro uzo hulugli dosawid ge na homric.",
+    "bio": "Deape kasidcif peh hudkufu zudduso ab japuza aduva remulo kuj bir vidim te tegufo dimohijuw ad ukauvtub godejir. Utruc cuwzuzded fekener dihiw nob oref robec tiberav nadufi ri iceba meanagew. Toj uc ije tahwi odzeic olrirwe ila jo ilvevat segravod rawfa piilfi kukecico wo ciorpaj. Ruzegug mo zojawaiz fu luripaki pilla bocobkab tuvtir wu eh conmezduz dakezco jos bezo te me."
+  },
+  "apiKey": "dfab5c7ce93dc2fc4d01c08063783c11d918b01fad7ec20ff4f59788431450a5",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
