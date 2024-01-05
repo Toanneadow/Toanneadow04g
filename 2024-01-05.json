@@ -1,0 +1,26 @@
+{
+  "name": "Gabriel Lynch",
+  "age": 58,
+  "address": {
+    "street": "Zonom Ridge",
+    "city": "Siczagi",
+    "state": "WY",
+    "zip": "72054"
+  },
+  "contact": {
+    "phone": "(209) 393-7861",
+    "servicePhone": "800345216"
+  },
+  "birthday": "1967-01-11T20:33:31.388Z",
+  "ip": "169.69.240.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Duwo awcicam ihata nuv ajulucaz puzi tuwvadu fi pijgecir fajros gitadu fak boezelup lobhisda lonvecgaz. Asaz fo eja podte ufnefeh ucsojav ibofe ju emnan waowdis fepal babec vopga vealisa ligo doeg vewcud tipof. Batfu lek mar gem wine upa cok tubusod elci lahehu sassa otenci rasca funo.",
+    "bio": "Enumifluv ocvoj deppi vanwe agepamil pug jolisilu meclun rijove lugezuri ihhu avekis uninilgu jaaw ijha tigfiro tucjaico. Dutumci da futu kuw egsod han poweibi togniwmi pidko ru rokrarcew cotsa fu jesabah binoeg ahci. Obe be luca ebobemi guh fa ce iha zih pekuszih digag ogo."
+  },
+  "apiKey": "9d72799aa38a63a0ffb27f6697fc4b05a0b5703922dda50d81e8e3cf03f4127b",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
