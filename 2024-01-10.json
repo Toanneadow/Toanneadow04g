@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Reed",
+  "age": 33,
+  "address": {
+    "street": "Dolij Parkway",
+    "city": "Nonotni",
+    "state": "TX",
+    "zip": "05520"
+  },
+  "contact": {
+    "phone": "(973) 663-4620",
+    "servicePhone": "800121243"
+  },
+  "birthday": "1989-03-30T18:04:39.277Z",
+  "ip": "70.200.37.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Ahu cab fecbulod selahomor newetso zi paku nonuw inaje gozi do lafoh hip winhiofo ig tughedwaw bipsose zi. Zunjap kuraw jog fu hizsesib dozzac zuw hersegsol paweval mob rila ag osgo votusned rovri nanij. Dizig ugehefoto alzumad ba fug za faj kudfiszuz fijebo ref ro atulekfuj hefez ogaani bomvas uru pateniku. Fiopu cad la gupama kocuvo wediron efi nutlajvos us bekon otuwag ujuilo.",
+    "bio": "Irure iziiha wib fo fi ive kov gijbuhe vulmerow gawa tigapenec wumfonced on hogaf su fambapid tojgor. Cokinew ira jiciga gecfas ozwowwu kar ebzos oh ril no jepatzi afenikij af deazuto tu ucu ragat pacer. Tujlegiv fizof mew to beda doma geci tattagku katiod pid farimbo rejwek mecofimo lopaf bemfalzoj unoruc."
+  },
+  "apiKey": "dc42ada89b6cc959a737c652929ddd89e76f2746efa76e797dfda8ffe427d8c7",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
