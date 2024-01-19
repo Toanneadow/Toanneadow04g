@@ -1,0 +1,26 @@
+{
+  "name": "Austin Watts",
+  "age": 56,
+  "address": {
+    "street": "Rovri Center",
+    "city": "Udecahme",
+    "state": "DE",
+    "zip": "48029"
+  },
+  "contact": {
+    "phone": "(305) 422-2448",
+    "servicePhone": "800547836"
+  },
+  "birthday": "1971-09-09T02:21:04.767Z",
+  "ip": "30.55.233.218",
+  "foo": "bar",
+  "profile": {
+    "about": "Healubiz cap riko fe egilo kaiv wivor mukuila vucfec ovo cuzohabam rag vuzer bavdar johilbic ubsewac vif. Bignec ga pewfe ace bijo gadbukkod zej mekcuca ejomim rohaiv piju keot noveroh lifu esaruezu. Umre runberka jul ij fe tu sotlewav wat nu lut pag iliopuh.",
+    "bio": "Vezar opocosvo pobtide mocim fofsoflak wilpecvan wac vompoz sidew wukozuh besoano cad rew wafdustif tac epi jiduosu luj. Uwiwa izgenar eju rewubu eclimwi serihe wo lep tim hiluvu fez havpuul kigmoz. Pirowjad dorivsuh toites wesep zu muz zelupow vu murcuvfo zogobfil juh ubusefvej ne jijihip."
+  },
+  "apiKey": "9def2aeaabfe69482c312839128ebbe305104b4decddcf9806408a1fb3f619ee",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
