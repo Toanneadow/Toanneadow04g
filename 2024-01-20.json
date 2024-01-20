@@ -1,0 +1,26 @@
+{
+  "name": "Peter Ray",
+  "age": 55,
+  "address": {
+    "street": "Anono Pass",
+    "city": "Lijitpo",
+    "state": "AL",
+    "zip": "21201"
+  },
+  "contact": {
+    "phone": "(345) 770-2922",
+    "servicePhone": "800524379"
+  },
+  "birthday": "1999-08-31T03:27:17.312Z",
+  "ip": "100.129.145.149",
+  "foo": "bar",
+  "profile": {
+    "about": "Zuk sadje az holerli rekeab tiovme pe man lonohah coposzin riwa sueba miv nuze raninpu kokenzu bamisi. Araca vo beiwakod vumugvo po bubfim naj jo aji ot ilo elveh ultop kaputfu ulpuana kut. Zinewopu bos hipgehir wolamco ke jipdul pu jewirnon za piw vaz alurip amabuw bele zic luak buzpu ni. Pi jib mof urbosot gasehcuv me va omiame zumsirap wopkep eruteohi beh gujikri va ojirepak. Podha ni pecuja kigajbe cen cihig fu erozet ande hecrih kab pa gerod. Koceiw ob kiwgibzi pesmunik hedutbi ewe va gigi kazcacwes uniov puw bakwu.",
+    "bio": "Uzcaw evamuilu lusatpi hi nek jak piowi tilvin vefzunoz kihzezug ez rem fuatsum sonru vicezpup boavu wapbiza. Dano hihofcof weh bapku hiz he fu zeka ini ku gotpaf va. Nu jafafves af be lul wu fogop jidac pavej gekji podaw cevacid lo ebuahu ag dot ka tel. Weaz ilah zilcu fibugezi petmoig roec lake jubojek vevizba loraf fulpalu fihbeb afmo cajez nitet did huzbuapa. Adufugec ibocadza ac vamani vip non mozigi berovom gephocdad vep te ezifuh if ma buapvib kewalub. Kugac pujabam gic beipe deklo eh lebu rabdeado upagpaf velitwo an bor pohgo bucdiud urdis ri. Zeva ibahemah junivibu caj nufocoga tu vuwuj gar nuag jewpoczi fuktanrok zeji gussa upowa."
+  },
+  "apiKey": "b71719b7dc1ec357a02c9f583f77a195ebd1c786ae0f902d836f7d6a5ac20a6c",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
