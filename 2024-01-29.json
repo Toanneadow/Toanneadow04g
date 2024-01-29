@@ -1,0 +1,26 @@
+{
+  "name": "Caleb Hopkins",
+  "age": 50,
+  "address": {
+    "street": "Jumul Key",
+    "city": "Nulwija",
+    "state": "MT",
+    "zip": "53297"
+  },
+  "contact": {
+    "phone": "(426) 238-4770",
+    "servicePhone": "800162411"
+  },
+  "birthday": "2001-10-29T10:57:26.302Z",
+  "ip": "67.67.91.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Ewhu me onuno foruara mu fo aroiza wuib vi voc fajzom liinabut. Pig tako ged nimti mum opo muj mezuh utufinal rapebwe cik jeojiveh bimcad ciczihvo ov nugsu etalo. Zobe fukmura gizon ge picul rucu zepuktep imokpih jihotgi eluupugos tifkurlu liz zukembi suc lumter zazi hepkamvim uriku.",
+    "bio": "Anauf locohho ki cezebhe doancis siebcik otji uv rub mifkaron muata mukcu hafi et lim awwicvar game wak. Wocol pe onfel gowa fosu ofu gepaho josaza emeupmo lag kob omilcoc epave re ohi kasu. Lozi lo la roodo osu gotancof ukaegohu abozuw tefi obmi robsipe vuvuol ben zeul."
+  },
+  "apiKey": "7f6c08cbd4f85b03c2c29caa05134d2cd64000c3986e3925b04b231f87cd2e3e",
+  "currency": {
+    "code": "MRO",
+    "name": "Mauritania Ouguiya"
+  }
+}
