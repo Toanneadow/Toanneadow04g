@@ -1,0 +1,26 @@
+{
+  "name": "Jimmy Nichols",
+  "age": 39,
+  "address": {
+    "street": "Jutra Ridge",
+    "city": "Eveimarud",
+    "state": "MI",
+    "zip": "98907"
+  },
+  "contact": {
+    "phone": "(655) 885-3456",
+    "servicePhone": "800167677"
+  },
+  "birthday": "1982-12-26T14:09:59.192Z",
+  "ip": "55.157.200.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Vawbe ragocni wuhu foojalor duputog gupjes holred vafjamepi fo akisez alvep loniwo bunpawa. Cuirla biagaf vonocim kive begbiho va ulivujji dabis wipmuw kel mowov gudiwa wukat tirja gisha. Do zunconop gu bifezva wi zav algakoj evuawisa ka del suwos wohareuzu gohe fugibe bu.",
+    "bio": "De ibube hebva ve wurit umole ecebihov mabaj utseftim izawuj ci ogizdim pi. Wurawi uze wolhod niwiosu voivogeb ivinezir pezjaju ivazaaw biracso soemi wo el siwfove luzca cugokosif vifkaszat puhnudpan zuf. Ig tur mejmuwom gobabma jav umlad orime nocvasew ez dutdoibu honza uwsuzboz domecu tic cofe. Gijuzca kem pet setunha fensampo famuzob azihogwob bovvovmo mo rujucivu ka han pistespe kezheg kovreb ila gadhu. Sadaguk vo ninvatzo za ga weraj sev isu huwa kinu hoj ce ta gud ko ojrim rumliskon etozif. Focvorrak fozetza worte in mu sep vucni ovotu luse vogvawlu ujuwico berkiksik vo iwkoric jul ehi awzour deksegbuf."
+  },
+  "apiKey": "c8e8cfc0413b3c56b8ce23f2e6a255239e3d11333cf6a56b9408919c530b23eb",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
