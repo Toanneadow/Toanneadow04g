@@ -1,0 +1,26 @@
+{
+  "name": "Katherine Powers",
+  "age": 38,
+  "address": {
+    "street": "Kilag Pass",
+    "city": "Goserper",
+    "state": "CO",
+    "zip": "09753"
+  },
+  "contact": {
+    "phone": "(640) 885-3988",
+    "servicePhone": "800795623"
+  },
+  "birthday": "1981-05-16T21:19:35.182Z",
+  "ip": "164.204.138.95",
+  "foo": "bar",
+  "profile": {
+    "about": "Re cub dalfa sub mi le ti zepdalo ma dos idenud rubfebse ne jiidfaz webjofoj loumo telluwsov. Nisak le unekub ro uhlofoh et wivdop waka duv ibunohak ar kuikada met izuuji. Hi jamerla ase hupliv lupaftem lo ico secfa na nicji je ete tafacov je goz abtihuk mopnishat.",
+    "bio": "Emkev sewjuhi ujo nidmurja fonvus ohi afek ripode bopkigper ke vebdedtan racguema advos epopepu izik ilzewe et wile. Lubemozu hedonite honeri daloewe cumi af rihhuuci fifwule citef ko ufiguvnur riese ri uve lulsu hunana. Tob lortotkij cermati me it gic zek ab usle ew koanudi itgecno otvo. Lutaveb zawmohtof efodas wibpicdu niw sud fif low iso tohhe mal verviwu puti kog hisaj."
+  },
+  "apiKey": "221cb96d3010c5d769b57d2e7730845fadbf7e8bac419a55d92d0343c0d9724c",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
