@@ -1,0 +1,26 @@
+{
+  "name": "Glen Walsh",
+  "age": 36,
+  "address": {
+    "street": "Selvas Mill",
+    "city": "Netisipi",
+    "state": "AZ",
+    "zip": "71038"
+  },
+  "contact": {
+    "phone": "(825) 674-3811",
+    "servicePhone": "800222836"
+  },
+  "birthday": "1976-06-08T05:57:05.022Z",
+  "ip": "202.201.222.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Nal duuha nej eton bibihkov nanahil pe vonmacfaj pucef ofiwig fem zorlum zek. Koz sip benkamu wu befokiata dizmonan fedebzo fer isce zipda eve guw kib calo wol. Tefraziz wovzit uvunove sir izrupgu inabuafe fug duuleor duj dehriprup ihimes afgon cupi nitbes idarif. Nile er luvwutgo amnar bencila pe cad teob ublepsah uhain rim taruh rikew.",
+    "bio": "Cepuw tab co cukze lok cediszek dojeslap bacinjel hagujule elibobneb edzu hawisa tazlorlob ko lerepfu. We wu dotrac rag figil ta copma boj etpouz ciud jigudi ke ak noj favguzomo. Jigoh ersuz goeg cosudac toot armi okoon un ewro harajiun talu cabsej ecjo wazhalus pusdu fatad leezot."
+  },
+  "apiKey": "b28fc2787068b2f2153253c2020d7d4035f8ec0e34b1cc28a3b91b77acd50e1a",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
