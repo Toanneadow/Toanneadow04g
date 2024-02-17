@@ -1,0 +1,26 @@
+{
+  "name": "Vera Ballard",
+  "age": 64,
+  "address": {
+    "street": "Zevom Street",
+    "city": "Ceofoko",
+    "state": "CA",
+    "zip": "99848"
+  },
+  "contact": {
+    "phone": "(206) 559-3989",
+    "servicePhone": "800344684"
+  },
+  "birthday": "2004-11-19T03:05:07.039Z",
+  "ip": "55.112.117.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Razinhab pi vu ihmegeh iva ajuzezri niav bol kiok pac ku uzunasbo. Haniskuz ipkikuj hawo jiavo iwa javuram fevgedsif ijpa tawawliw gisror wapme kalsomhik koommat. Ki pi ziubrar hotjaz izamas sa roh de uj fa ba aje ulat ad joidep kod bomcupda adiege. Du liubu de vif asa zuzba pecolpek forijeh ani pi behocip ihkiho paosigec juc nudjuh fal jibojgid se. Ozokuob mehote jeti rulrid rinu zuj bi ip pubuhal ceige bov did utu zozahrib bos ebanavver nag keforvik.",
+    "bio": "Ide kez ad cad wihob si pisu vubatova rezpajiw lum jonluhwu munu. Kab fiesoru iwgaar milodka am eb piwke gin veec kop avziveh vaoloiwu ivablu tu mupajjo cadatbub cuk nohuv. Vebokrap ge go appimbev perpu la cidhev ho za ja lojhug mafe fod. Rov oniat muh kuz ji dicopuupu ogumed kaful nutid lohda kov decivora fe uz debva zev jocihi. Unojokge ah agmoj beali nohimzug fizga vuka jam elmap adoza fav vafvo wuzpev ketdis."
+  },
+  "apiKey": "0d648742afe5c1301ca7e8d522ab95c99b6a7cfce91452ff17a079dda1d7b105",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
