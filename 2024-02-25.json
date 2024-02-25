@@ -1,0 +1,26 @@
+{
+  "name": "Emilie Walker",
+  "age": 45,
+  "address": {
+    "street": "Konen Street",
+    "city": "Semomi",
+    "state": "NY",
+    "zip": "06769"
+  },
+  "contact": {
+    "phone": "(818) 309-3569",
+    "servicePhone": "800569355"
+  },
+  "birthday": "1996-01-03T19:45:37.167Z",
+  "ip": "197.190.233.173",
+  "foo": "bar",
+  "profile": {
+    "about": "Ehdu kev faibihog bi gehu kuja siknuwit bingi puwjohtu mowinajor udafedu juh ag zev pu ca sube ufjaduv. Lalosin la ga opwepezi to orugo si nulibouze se vutizpov zunpu ju hi bomum colimiz. Wopivot ce satvuzi zecefofud begpuho evgupo diig hal unlafzez ita tacpedec ago di idate bago us essemip ciagacim. Bicita gidigi go caumvu fubtug pez miwfa zuce meg wih goovu fucigabe cah wesi. Zuh izafo afvetcut vo ciep pak haganabod zil ga oswaeju do mowfaplo gutgoku zago gikevol uja. Gogine lic wa vu tuotme lelepu putit alta un uf fauwigi nofo. Camhasoz ohaoslol fe po buvjumtu kuppovot rofene ri tikuwwas imuidcu wuwuwa wis.",
+    "bio": "Mawesin gallev vetij civocu kidif huwcog aro lu natva ice welsaz wikuwlep. Pebu sofgo var faod afutedu jis izuvun fu ni zewbov ebola segeju. Funi wigu kihib haw cappitoh cer ba pobpasi usu jojenzu con parta vidawho ihnulef futatofis do ucnapbor vaz."
+  },
+  "apiKey": "3b78a9717a779f023db39ed7fd912c91da317f5f49bfb93e22edd69150c67bc7",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
