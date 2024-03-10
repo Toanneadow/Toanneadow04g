@@ -1,0 +1,26 @@
+{
+  "name": "Leah Morgan",
+  "age": 45,
+  "address": {
+    "street": "Berke Highway",
+    "city": "Ocusavif",
+    "state": "VA",
+    "zip": "58029"
+  },
+  "contact": {
+    "phone": "(200) 439-8344",
+    "servicePhone": "800521542"
+  },
+  "birthday": "1961-09-21T14:39:59.484Z",
+  "ip": "223.182.214.84",
+  "foo": "bar",
+  "profile": {
+    "about": "Uguug delabaew vi wu egwochi zodkopate uwetiggel cuhihu ajovekem siap rug lorcuhedu guad. Gatif finzosvun nucru zosadla tanpi ma lomlirvu cozuska wabub hogteb pitpe uj. Jabtis ediho rag nigussaf puha tov linofe novo folo vir tagasina megadrut.",
+    "bio": "Vu astaju gowil wobhojbo covsotih da giruw dawe sugani wepuni fi fonic pestokba pas jaweihi fitaz ne mi. Pi tadeggu la no retsida ole jirowfad lohfab edga zi nunuf gav tuekjem nowu pavacef mararaep no ojewco. Ja wec joaci dohbe ha tujlitu doosopow dir ijfuzro odimic zi dazes gak. Oc bemniot gil urojur kuwbo hogem loguca damjoh hi zaihu ug kono cidfobfi gi."
+  },
+  "apiKey": "20bdc36183e0c30a84480181bf2ce98d44631466505b7a271a53996db01051ff",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
