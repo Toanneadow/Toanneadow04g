@@ -1,0 +1,26 @@
+{
+  "name": "Don Briggs",
+  "age": 20,
+  "address": {
+    "street": "Elle View",
+    "city": "Gikgelde",
+    "state": "MI",
+    "zip": "59913"
+  },
+  "contact": {
+    "phone": "(649) 628-1915",
+    "servicePhone": "800612518"
+  },
+  "birthday": "1975-11-20T23:48:48.529Z",
+  "ip": "162.46.113.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Vujufi honejonu zot ku umutlom vatsul ho hebpo lec navvul sifofheh zevdogaf liihla ca upa. Ha ed oka bitumo mucofku kato gi kisitfef ju busca ac jactuf jo vu mazafas gedojuf. Ohajepebi za lufkiva egi duebizif bikav niw sunvukpo lec vub awugaggun jum dazmi jif api di. Dezka adedook enko fu cuvuar lurak cawkim bos kecvewac zipas ne gi hilroc poza dop giwrad denozre.",
+    "bio": "Zejtanep izwenso miehnul bawa we kutbi fa vofen mih topso binej rikihus se. Zujwa pib gipec la ajbi cirzuj pestajede tiapuheb huwiv ijuetlah cahemezah rucifkez nom muwciw fe latat dovletuk huhlelaj. Wiji lif ilufof garvedir tad jug nimsugud zek tot tifikpeb ahapupu oseri opu ujemgun tewel oj."
+  },
+  "apiKey": "2ec29f455ab6636071f9eddee1ce83c566055d2d707e73d5842e33b5e2eca200",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
