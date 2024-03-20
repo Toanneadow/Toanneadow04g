@@ -1,0 +1,26 @@
+{
+  "name": "Todd Harris",
+  "age": 54,
+  "address": {
+    "street": "Watnu Avenue",
+    "city": "Vewhepeza",
+    "state": "WI",
+    "zip": "77583"
+  },
+  "contact": {
+    "phone": "(938) 866-9544",
+    "servicePhone": "800229439"
+  },
+  "birthday": "1993-12-28T23:35:09.376Z",
+  "ip": "110.198.240.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Ihra jeriffen hejna zakwenam corecauta lejwomgi noc bozkufkar ci dape vorima wuv imfurtic hukagpe ucahepmac. Sopduzjal cof gehtajod bewe cim wus zonetru evades fe tafagese jahis rihfuv vegunel loap jefedak. Rolfiko efpo avetaki sebfeho je rogoel oboudcez tid nub tov vu bup ce mikaguan forir okehel vepuse.",
+    "bio": "Kusi so joffuva temolsu pat zer uv ledev wog liduzbiz rebo zu joavohi forew mimrorlef arip bacis. Unvol wi os datu wo awi bo wesu cuvuv lohe pezil foit. Ispi we so ercu rolfamo ce sarate hi hi hoho kakos ovoci sowi zo ujuirmud dagratzis vinadej fahejean."
+  },
+  "apiKey": "91e3a39afebfd8e5b7aa24d2cc8fe7e3f8307cfbe8e3472aca942c97fada477c",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
